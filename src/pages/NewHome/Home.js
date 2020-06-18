@@ -33,7 +33,7 @@ const NewHome  = () => {
                     </h4>
                         <hr/>
                     <div className="figure text-center"/>    
-                    <h6 className="arrow-2"> We can build awesome things together</h6>    
+                    <h6 className="arrow-2"> ssWe can build awesome things together</h6>    
                     <br/>
                     <Link 
                     to="about"
